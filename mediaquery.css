@@ -1,0 +1,33 @@
+*{
+    box-sizing:border-box;
+}
+
+@media(max-width:1030px){
+    .member{
+        width:50%;
+        margin-bottom:50px;
+    }
+}
+
+@media(max-width:670px){
+    .member{
+        width:100%;
+    }
+    footer{
+        text-align:center;
+    }
+    .btn{
+        width:100%;
+        text-align:center;
+    }
+    .top-wrapper{
+        text-align:left;
+        padding-top:130px;
+    }
+    .header-right{
+        display:none;
+    }
+    .menu-icon{
+        display:block;
+    }
+}
