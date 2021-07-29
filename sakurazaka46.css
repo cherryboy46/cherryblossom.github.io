@@ -7,7 +7,6 @@ a {
 .container{
     max-width:1170px;
     width:100%;
-    min-width:800px;
     padding:0 15px;
     margin:0 auto;
 }
@@ -58,6 +57,7 @@ header{
     background-image:url(IMG_0260.JPG);
     color:white;
     background-size:cover;
+    min-width:960px;
     text-align:center;
 }
 .top-wrapper h1{
